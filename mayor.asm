@@ -13,7 +13,7 @@ guarda2 db '?',10,13,'$'
  
 resultado db 'El mayor es:','$'
  
-hecho db 'BY JOVANI','$'
+hecho db 'Ciencias-3','$'
  
 salto db '',10,13,'$'
  
